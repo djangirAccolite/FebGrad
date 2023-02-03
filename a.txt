@@ -1,1 +1,3 @@
 hello its our first commit
+
+Added some more info
