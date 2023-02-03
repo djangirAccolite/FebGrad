@@ -1,5 +1,5 @@
 hello its our first commit
 
-Added some more info
+some more info
 
 new random
