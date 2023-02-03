@@ -1,5 +1,9 @@
 hello its our first commit
 
+<<<<<<< HEAD
 some more info
+=======
+Added some more
+>>>>>>> aa39d26 (98 merge issue in new)
 
 new random
